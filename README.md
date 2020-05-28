@@ -9,4 +9,4 @@ Same is available in Python:https://github.com/umeshsarkar-lab/Python-Command-Li
 
 # 2.CLI Calculator
 
-This is a normal command line basic calculator for beginers in Rust
+This is a normal command line basic calculator for beginners in Rust
